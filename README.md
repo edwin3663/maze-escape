@@ -24,4 +24,4 @@ xxxxxxxxxxxx xxxxxxx</br>
 
 # Limitation of the Program
 
-The program doesn't do error checking on the maze input file. The maze is always rectangular. It is also assumed that given maze width, height, coordinate of the exit and entrace match given maze. 
+The program doesn't do error checking on the maze input file. The maze is always rectangular. It is also assumed that the given maze width, height, coordinate of the exit and entrance match given maze. 
